@@ -11,3 +11,13 @@ A small set of agent skills for developing and reviewing code.
 ## Inspiration
 
 Inspired by [t3dotgg/tstack](https://github.com/t3dotgg/tstack).
+
+## Install
+
+```sh
+# all skills
+npx skills add SahilFruitwala/code-skills
+
+# a single skill
+npx skills add SahilFruitwala/code-skills --skill code-reviewer
+```
